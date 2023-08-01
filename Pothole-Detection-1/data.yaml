@@ -1,0 +1,5 @@
+names:
+- pothole
+nc: 1
+train: Pothole-Detection-1/train/images
+val: Pothole-Detection-1/valid/images
